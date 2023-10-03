@@ -1,9 +1,14 @@
-import Image from 'next/image'
+import Home_V1 from "./(home)/home-v1/page";
+import Wrapper from "./layout-wrapper/wrapper";
 
-export default function Home() {
+export const metadata = {
+  title: "Home v1 || Homez - Real Estate NextJS Template",
+};
+
+export default function MainRoot() {
   return (
-    <main className="h-screen py-5 px-10 bg-gray-200">
-      <p className='text-xl'>Welcome to View Nyumba!</p>
-    </main>
-  )
+    <Wrapper>
+      <Home_V1 />
+    </Wrapper>
+  );
 }
