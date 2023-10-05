@@ -1,23 +1,21 @@
 import MobileMenu from "@/components/common/mobile-menu";
-import Partner from "@/components/common/Partner";
-import Agents from "@/components/home/Agents";
-import ApartmentType from "@/components/home/home-v2/ApartmentType";
-import Explore from "@/components/home/home-v2/Explore";
-import ExploreCities from "@/components/home/home-v2/ExploreCities";
-import FeaturedListings from "@/components/home/home-v2/FeatuerdListings";
-import Header from "@/components/home/home-v2/Header";
-import Testimonial from "@/components/home/home-v2/Testimonial";
 import About from "@/components/home/about";
 import Hero from "@/components/home/hero";
 import React from "react";
 import Footer from "@/components/common/default-footer";
-import Cta from "@/components/home/home-v2/Cta";
-
-
 import Link from "next/link";
+import ApartmentType from "@/components/home/ApartmentType";
+import Header from "@/components/home/Header";
+import FeaturedListings from "@/components/home/FeatuerdListings";
+import ExploreCities from "@/components/home/ExploreCities";
+import Explore from "@/components/home/Explore";
+import Testimonial from "@/components/home/Testimonial";
+import Agents from "@/components/home/Agents";
+import Partner from "@/components/common/Partner";
+import Cta from "@/components/home/Cta";
 
 export const metadata = {
-  title: "Home || View Nyumba - Get your dream house",
+  title: "Home - View Nyumba",
 };
 
 const Home_V2 = () => {
@@ -140,7 +138,7 @@ const Home_V2 = () => {
           <div className="row">
             <div className="col-lg-12" data-aos="fade-up" data-aos-delay="300">
               <div className="property-city-slider">
-                <ExploreCities />
+                <ExploreCities  />
               </div>
             </div>
           </div>
