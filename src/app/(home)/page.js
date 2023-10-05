@@ -1,14 +1,14 @@
 import MobileMenu from "@/components/common/mobile-menu";
 import Partner from "@/components/common/Partner";
-import Agents from "@/components/home/home-v2/Agents";
+import Agents from "@/components/home/Agents";
 import ApartmentType from "@/components/home/home-v2/ApartmentType";
 import Explore from "@/components/home/home-v2/Explore";
 import ExploreCities from "@/components/home/home-v2/ExploreCities";
 import FeaturedListings from "@/components/home/home-v2/FeatuerdListings";
 import Header from "@/components/home/home-v2/Header";
 import Testimonial from "@/components/home/home-v2/Testimonial";
-import About from "@/components/home/home-v2/about";
-import Hero from "@/components/home/home-v2/hero";
+import About from "@/components/home/about";
+import Hero from "@/components/home/hero";
 import React from "react";
 import Footer from "@/components/common/default-footer";
 import Cta from "@/components/home/home-v2/Cta";
@@ -17,7 +17,7 @@ import Cta from "@/components/home/home-v2/Cta";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Home v2 || Homez - Real Estate NextJS Template",
+  title: "Home || View Nyumba - Get your dream house",
 };
 
 const Home_V2 = () => {
