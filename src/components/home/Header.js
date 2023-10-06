@@ -37,8 +37,8 @@ const Header = () => {
             <div className="row align-items-center justify-content-between">
               <div className="col-auto">
                 <div className="d-flex align-items-center justify-content-between">
-                  <div className="logos mr40">
-                    <Link className="header-logo logo1" href="/">
+                  <div className="">
+                    {/* <Link className="header-logo logo1" href="/">
                       <Image
                         width={138}
                         height={44}
@@ -53,7 +53,8 @@ const Header = () => {
                         src="/images/header-logo2.svg"
                         alt="Header Logo"
                       />
-                    </Link>
+                    </Link> */}
+                    <Link className=" text-white fw-bold fs-4 mr40" href="/">ViewNyumba</Link>
                   </div>
                   {/* End Logo */}
 
@@ -70,7 +71,7 @@ const Header = () => {
                     href="tel:+012305094502"
                   >
                     <i className="far fa-phone fz16 me-2"></i>{" "}
-                    <span className="d-none d-xl-block">2 911 098 7654</span>
+                    <span className="d-none d-xl-block">+254712345678</span>
                   </a>
                   <a
                     href="#"

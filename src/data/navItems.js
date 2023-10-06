@@ -15,7 +15,7 @@ export const listingItems = [
   {
     title: "Grid View",
     submenu: [
-      { label: "Grid Default", href: "/grid-default" },
+      { label: "Grid Default", href: "/listing" },
       { label: "Grid Full Width 3 Cols", href: "/grid-full-3-col" },
       { label: "Grid Full Width 4 Cols", href: "/grid-full-4-col" },
       { label: "Grid Full Width 2 Cols", href: "/grid-full-2-col" },
