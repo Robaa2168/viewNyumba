@@ -5,12 +5,12 @@
 
 import listings from "@/data/listings";
 import React, { useState,useEffect } from 'react'
-import ListingSidebar from '../../sidebar'
+import ListingSidebar from '../sidebar'
 import AdvanceFilterModal from '@/components/common/advance-filter-two'
 import TopFilterBar from './TopFilterBar'
 import FeaturedListings from './FeatuerdListings'
-import Pagination from '../../Pagination'
-import PaginationTwo from "../../PaginationTwo";
+import Pagination from '../Pagination'
+import PaginationTwo from "../PaginationTwo";
 
 
 export default function ProperteyFiltering() {

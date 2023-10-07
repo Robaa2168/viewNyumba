@@ -1,11 +1,11 @@
 'use client'
 
 import React from "react";
-import ListingStatus from "../../sidebar/ListingStatus";
-import PropertyType from "../../sidebar/PropertyType";
-import PriceRange from "../../sidebar/PriceRange";
-import Bedroom from "../../sidebar/Bedroom";
-import Bathroom from "../../sidebar/Bathroom";
+import ListingStatus from "../sidebar/ListingStatus";
+import PropertyType from "../sidebar/PropertyType";
+import PriceRange from "../sidebar/PriceRange";
+import Bedroom from "../sidebar/Bedroom";
+import Bathroom from "../sidebar/Bathroom";
 
 const TopFilterBar = ({filterFunctions,setCurrentSortingOption,colstyle,setColstyle}) => {
   
