@@ -4,12 +4,12 @@ const ContactMeta = () => {
   const contactInfoList = [
     {
       title: "Total Free Customer Care",
-      phone: "+(0) 123 050 945 02",
+      phone: "+2547 12345678",
       phoneLink: "tel:+012305094502", // Changed phoneLink to tel: URI
     },
     {
       title: "Need Live Support?",
-      mail: "hi@homez.com",
+      mail: "support@viewnyumba.com",
       mailLink: "mailto:hi@homez.com", // Changed mailLink to direct email address
     },
   ];
