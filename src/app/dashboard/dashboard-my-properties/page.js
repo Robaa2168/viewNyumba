@@ -3,12 +3,12 @@ import MobileMenu from "@/components/common/mobile-menu";
 import Pagination from "@/components/property/Pagination";
 import Footer from "@/components/property/dashboard/Footer";
 import SidebarDashboard from "@/components/property/dashboard/SidebarDashboard";
-import FilterHeader from "../../../../components/property/dashboard/dashboard-my-properties/FilterHeader";
+import FilterHeader from "@/components/property/dashboard/dashboard-my-properties/FilterHeader";
 import PropertyDataTable from "@/components/property/dashboard/dashboard-my-properties/PropertyDataTable";
 import DboardMobileNavigation from "@/components/property/dashboard/DboardMobileNavigation";
 
 export const metadata = {
-  title: "Dashboard Properties || Homez - Real Estate NextJS Template",
+  title: "Dashboard Properties || View Nyumba",
 };
 
 const DashboardMyProperties = () => {
