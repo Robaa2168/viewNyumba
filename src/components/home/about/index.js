@@ -14,7 +14,7 @@ const About = () => {
               width={591}
               height={768}
               className="w-100 h-100 cover img-1"
-              src="/images/about/about-2.png"
+              src="/images/about/house2.jpg"
               alt="about"
             />
           </div>
@@ -23,7 +23,7 @@ const About = () => {
               width={193}
               height={193}
               className="img-1 spin-right"
-              src="/images/about/element-1.png"
+              src="/images/about/house3.jpg"
               alt="about"
             />
           </div>

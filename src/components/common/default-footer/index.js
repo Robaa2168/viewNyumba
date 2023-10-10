@@ -14,14 +14,8 @@ const Footer = () => {
         <div className="row">
           <div className="col-lg-5">
             <div className="footer-widget mb-4 mb-lg-5">
-              <Link className="footer-logo" href="/">
-                <Image
-                  width={138}
-                  height={44}
-                  className="mb40"
-                  src="/images/header-logo.svg"
-                  alt=""
-                />
+              <Link className="text-white fw-3 fw-bold" href="/">
+                View Nyumba
               </Link>
               <ContactMeta />
               <AppWidget />

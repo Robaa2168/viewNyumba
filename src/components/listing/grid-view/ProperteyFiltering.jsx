@@ -1,15 +1,12 @@
 
 'use client'
 
-
-
 import listings from "@/data/listings";
 import React, { useState,useEffect } from 'react'
-import ListingSidebar from '../sidebar'
 import AdvanceFilterModal from '@/components/common/advance-filter-two'
 import TopFilterBar from './TopFilterBar'
 import FeaturedListings from './FeatuerdListings'
-import Pagination from '../Pagination'
+import ListingSidebar from "../sidebar";
 import PaginationTwo from "../PaginationTwo";
 
 

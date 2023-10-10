@@ -10,37 +10,37 @@ const ExploreCities = () => {
     {
       id: 1,
       name: "Los Angeles",
-      image: "/images/listings/city-listing-1.jpg",
+      image: "/images/listings/house3.jpg",
       number: 12,
     },
     {
       id: 2,
       name: "Miami",
-      image: "/images/listings/city-listing-1.jpg",
+      image: "/images/listings/house3.jpg",
       number: 8,
     },
     {
       id: 3,
       name: "New York",
-      image: "/images/listings/city-listing-1.jpg",
+      image: "/images/listings/house3.jpg",
       number: 15,
     },
     {
       id: 4,
       name: "Chicago",
-      image: "/images/listings/city-listing-1.jpg",
+      image: "/images/listings/house3.jpg",
       number: 10,
     },
     {
       id: 5,
       name: "Los Angeles",
-      image: "/images/listings/city-listing-1.jpg",
+      image: "/images/listings/house3.jpg",
       number: 12,
     },
     {
       id: 6,
       name: "Miami",
-      image: "/images/listings/city-listing-1.jpg",
+      image: "/images/listings/house3.jpg",
       number: 8,
     },
     // Add more cities if needed

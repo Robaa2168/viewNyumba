@@ -182,40 +182,6 @@ const Home_V2 = () => {
       </section>
       {/* End About Us */}
 
-      {/* Our Testimonials */}
-      <section className="our-testimonial p-0">
-        <div className="cta-banner2 bgc-f7 maxw1600 mx-auto pt110 pt60-md pb110 pb60-md bdrs12 position-relative">
-          <div className="container">
-            <div className="row">
-              <div
-                className="col-lg-6 mx-auto"
-                data-aos="fade-up"
-                data-aos-delay="100"
-              >
-                <div className="main-title text-center">
-                  <h2>Testimonials</h2>
-                  <p className="paragraph">
-                    10,000+ unique online course list designs
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div
-                className="col-lg-8 m-auto"
-                data-aos="fade-up"
-                data-aos-delay="300"
-              >
-                <div className="testimonial-style2">
-                  <Testimonial />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      {/* End Our Testimonials */}
-
       {/* Exclusive Agents */}
       <section className="pb90">
         <div className="container">

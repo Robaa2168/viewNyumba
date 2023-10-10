@@ -2,13 +2,12 @@ import DefaultHeader from "@/components/common/DefaultHeader";
 
 import Footer from "@/components/common/default-footer";
 import MobileMenu from "@/components/common/mobile-menu";
-
 import ProperteyFiltering from "@/components/listing/grid-view/ProperteyFiltering";
 
 import React from "react";
 
 export const metadata = {
-  title: "Gird Full 3 Column || Homez - Real Estate NextJS Template",
+  title: "Listing - View Nyumba",
 };
 
 const GridFull3Col = () => {
