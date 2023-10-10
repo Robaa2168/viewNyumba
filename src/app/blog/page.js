@@ -1,5 +1,5 @@
+import Blog from "@/components/blog/Blog";
 import Pagination from "@/components/blog/Pagination";
-import Blog from "@/components/blog/blog-list-v1/Blog";
 import BlogSidebar from "@/components/blog/sidebar";
 import DefaultHeader from "@/components/common/DefaultHeader";
 import Footer from "@/components/common/default-footer";

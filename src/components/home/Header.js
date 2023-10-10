@@ -54,7 +54,7 @@ const Header = () => {
                         alt="Header Logo"
                       />
                     </Link> */}
-                    <Link className=" text-white fw-bold fs-4 mr40" href="/">ViewNyumba</Link>
+                    <Link className=" text-white fw-bold fs-4 mr40" href="/">View Nyumba</Link>
                   </div>
                   {/* End Logo */}
 

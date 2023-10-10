@@ -86,7 +86,7 @@ const MainMenu = () => {
       {/* End property Items */}
 
       <li className="visible_list dropitem">
-        <a className="list-item" href="#">
+        <a className="list-item" href="/blog">
           <span className={topMenu == "blog" ? "title menuActive" : "title"}>
             Blog
           </span>

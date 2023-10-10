@@ -5,14 +5,14 @@ const ContactInfo = () => {
     {
       id: 1,
       title: "Total Free Customer Care",
-      phone: "+(0) 123 050 945 02",
-      phoneHref: "tel:+012305094502",
+      phone: "+2547 12345678",
+      phoneHref: "tel:+254712345678",
     },
     {
       id: 2,
       title: "Need Live Support?",
-      email: "hi@homez.com",
-      emailHref: "mailto:hi@homez.com",
+      email: "support@viewnyumba.com",
+      emailHref: "mailto:support@viewnyumba.com",
     },
   ];
 
