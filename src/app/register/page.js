@@ -26,15 +26,7 @@ const Register = () => {
             <div className="col-lg-6">
               <div className="log-reg-form signup-modal form-style1 bgc-white p50 p30-sm default-box-shadow2 bdrs12">
                 <div className="text-center mb40">
-                  <Link href="/">
-                    <Image
-                      width={138}
-                      height={44}
-                      className="mb25"
-                      src="/images/header-logo2.svg"
-                      alt="logo"
-                    />
-                  </Link>
+                <Link className=" text-black fw-bold fs-4 " href="/">View Nyumba</Link>
                   <h2>Create account</h2>
                   <p className="text">
                     Sign in with this account across the following sites.
