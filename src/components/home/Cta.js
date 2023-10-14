@@ -32,7 +32,7 @@ const Cta = () => {
           <Image
             width={650}
             height={365}
-            src="/images/about/cta-img-1.png"
+            src="/images/about/house3.jpg"
             alt="element"
           />
         </div>
