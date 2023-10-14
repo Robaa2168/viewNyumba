@@ -79,14 +79,7 @@ const DashboardHeader = () => {
               <div className="col-6 col-lg-auto">
                 <div className="text-center text-lg-start d-flex align-items-center">
                   <div className="dashboard_header_logo position-relative me-2 me-xl-5">
-                    <Link className="logo" href="/">
-                      <Image
-                        width={138}
-                        height={44}
-                        src="/images/header-logo2.svg"
-                        alt="Header Logo"
-                      />
-                    </Link>
+                  <Link className=" text-black fw-bold fs-4 mr40" href="/">View Nyumba</Link>
                   </div>
                   {/* End Logo */}
 

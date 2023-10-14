@@ -11,12 +11,12 @@ const SidebarDashboard = () => {
       title: "MAIN",
       items: [
         {
-          href: "/dashboard-home",
+          href: "/dashboard/dashboard-home",
           icon: "flaticon-discovery",
           text: "Dashboard",
         },
         {
-          href: "/dashboard-message",
+          href: "/dashboard/dashboard-message",
           icon: "flaticon-chat-1",
           text: "Message",
         },
@@ -26,27 +26,27 @@ const SidebarDashboard = () => {
       title: "MANAGE LISTINGS",
       items: [
         {
-          href: "/dashboard-add-property",
+          href: "/dashboard/dashboard-add-property",
           icon: "flaticon-new-tab",
           text: "Add New Property",
         },
         {
-          href: "/dashboard-my-properties",
+          href: "/dashboard/dashboard-my-properties",
           icon: "flaticon-home",
           text: "My Properties",
         },
         {
-          href: "/dashboard-my-favourites",
+          href: "/dashboard/dashboard-my-favourites",
           icon: "flaticon-like",
           text: "My Favorites",
         },
         {
-          href: "/dashboard-saved-search",
+          href: "/dashboard/dashboard-saved-search",
           icon: "flaticon-search-2",
           text: "Saved Search",
         },
         {
-          href: "/dashboard-reviews",
+          href: "/dashboard/dashboard-reviews",
           icon: "flaticon-review",
           text: "Reviews",
         },
@@ -56,17 +56,17 @@ const SidebarDashboard = () => {
       title: "MANAGE ACCOUNT",
       items: [
         {
-          href: "/dashboard-my-package",
+          href: "/dashboard/dashboard-my-package",
           icon: "flaticon-protection",
           text: "My Package",
         },
         {
-          href: "/dashboard-my-profile",
+          href: "/dashboard/dashboard-my-profile",
           icon: "flaticon-user",
           text: "My Profile",
         },
         {
-          href: "/login",
+          href: "/pages/login",
           icon: "flaticon-logout",
           text: "Logout",
         },

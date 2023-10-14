@@ -16,15 +16,8 @@ const Footer = () => {
           <div className="col-auto">
             <div className="copyright-widget">
               <p className="text">
-                © Homez {currentYear}{" "}
-                <a
-                  href="https://themeforest.net/user/ib-themes"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  ib-themes
-                </a>{" "}
-                - All rights reserved
+              © View Nyumba {currentYear}{" "}
+              - All rights reserved
               </p>
             </div>
           </div>

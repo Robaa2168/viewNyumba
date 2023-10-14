@@ -54,7 +54,7 @@ const Header = () => {
                         alt="Header Logo"
                       />
                     </Link> */}
-                    <Link className=" text-white fw-bold fs-4 mr40" href="/">View Nyumba</Link>
+                    <Link className=" text-white fw-bold fs-4 mr40" href="/">ViewNyumba</Link>
                   </div>
                   {/* End Logo */}
 
@@ -81,11 +81,11 @@ const Header = () => {
                     role="button"
                   >
                     <i className="far fa-user-circle fz16 me-2" />{" "}
-                    <span className="d-none d-xl-block">Login / Register</span>
+                    <span className="d-none d-xl-block">Login</span>
                   </a>
                   <Link
                     className="ud-btn add-property menu-btn bdrs60 mx-2 mx-xl-4"
-                    href="/dashboard-add-property"
+                    href="/dashboard/dashboard-add-property"
                   >
                     Add Property
                     <i className="fal fa-arrow-right-long" />

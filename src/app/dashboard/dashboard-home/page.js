@@ -8,7 +8,7 @@ import TopStateBlock from "@/components/property/dashboard/dashboard-home/TopSta
 import PropertyViews from "@/components/property/dashboard/dashboard-home/property-view";
 
 export const metadata = {
-  title: "Dashboard Home || Homez - Real Estate NextJS Template",
+  title: "Dashboard Home || View Nyumba",
 };
 
 const DashboardHome = () => {
@@ -38,7 +38,7 @@ const DashboardHome = () => {
 
                 <div className="col-lg-12">
                   <div className="dashboard_title_area">
-                    <h2>Howdy, Ali!</h2>
+                    <h2>Mayore, Stanley!</h2>
                     <p className="text">We are glad to see you again!</p>
                   </div>
                 </div>
